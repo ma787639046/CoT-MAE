@@ -1,4 +1,4 @@
 # CoT-MAE
 ConTextual Mask Auto-Encoder for Dense Passage Retrieval
 
-Please stay tuned! The code for CoT-MAE will be released soon.
+Code for CoT-MAE is released at our organization repos: [CoT-MAE Github Page](https://github.com/caskcsg/CoT-MAE)
